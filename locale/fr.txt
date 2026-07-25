@@ -1,0 +1,31 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BlocA_F5_Cuisine fermée
+
+## Skin
+
+### Label
+Label_8270A9AA_98FA_D037_41CF_B006F9B3B68B.text = Bloc A F5 Type 1 
+
+## Media
+
+### Title
+panorama_86D65591_9A21_598D_41B6_161B2D7976C3.label = Entrée
+panorama_86D6B228_9A21_7A9B_41C5_29261EA66911.label = Salon
+panorama_86D6CCE8_9A21_4F9B_41E2_59DF13377B9A.label = Chambre 2
+panorama_86D6D839_9A21_56FD_41D0_3C95A96A7AB8.label = Salle de bain 2
+panorama_86D6FE5F_9A21_4AB5_41D2_D93C968AAF95.label = Séjour
+panorama_86D7121F_9A21_5AB5_41C9_BA77E6B71835.label = Chambre 3
+panorama_86D72736_9A21_7AF7_41C8_875F62C22AF5.label = Chambre 1
+panorama_86D76C10_9A21_4E8B_41B8_D734BAA941DD.label = Salle de bain
+panorama_8764AF68_9A21_4A9B_41C7_E829C0DFE379.label = Cuisine
+
+## Action
+
+### URL
+LinkBehaviour_F058D8A2_E3D4_CE42_41D3_D3FDE670FA78.source = https://lotfipromotion.com/
